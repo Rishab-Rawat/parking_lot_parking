@@ -1,4 +1,4 @@
-# Smart Parking Lot — Java Reference Implementation
+# Smart Parking Lot — Java Reference Implementation for code
 
 A runnable Java implementation of the low-level design 
 
